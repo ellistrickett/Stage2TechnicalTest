@@ -1,0 +1,15 @@
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\Stage2TechnicalTest.csproj.AssemblyReference.cache
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\Stage2TechnicalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\Stage2TechnicalTest.AssemblyInfoInputs.cache
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\Stage2TechnicalTest.AssemblyInfo.cs
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\Stage2TechnicalTest.csproj.CoreCompileInputs.cache
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\bin\Debug\net7.0\Stage2TechnicalTest.exe
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\bin\Debug\net7.0\Stage2TechnicalTest.deps.json
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\bin\Debug\net7.0\Stage2TechnicalTest.runtimeconfig.json
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\bin\Debug\net7.0\Stage2TechnicalTest.dll
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\bin\Debug\net7.0\Stage2TechnicalTest.pdb
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\Stage2TechnicalTest.dll
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\refint\Stage2TechnicalTest.dll
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\Stage2TechnicalTest.pdb
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\Stage2TechnicalTest.genruntimeconfig.cache
+C:\Users\ellis\DevelopmentProjects\Stage2TechnicalTest\Stage2TechnicalTest\obj\Debug\net7.0\ref\Stage2TechnicalTest.dll
